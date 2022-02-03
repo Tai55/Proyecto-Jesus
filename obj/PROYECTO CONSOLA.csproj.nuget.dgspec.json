@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\PROYECTOS\\PROYECTO CONSOLA\\PROYECTO CONSOLA.csproj": {}
+    "C:\\PROYECTOS\\Proyecto-Jesus\\PROYECTO CONSOLA.csproj": {}
   },
   "projects": {
-    "C:\\PROYECTOS\\PROYECTO CONSOLA\\PROYECTO CONSOLA.csproj": {
+    "C:\\PROYECTOS\\Proyecto-Jesus\\PROYECTO CONSOLA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\PROYECTOS\\PROYECTO CONSOLA\\PROYECTO CONSOLA.csproj",
+        "projectUniqueName": "C:\\PROYECTOS\\Proyecto-Jesus\\PROYECTO CONSOLA.csproj",
         "projectName": "PROYECTO CONSOLA",
-        "projectPath": "C:\\PROYECTOS\\PROYECTO CONSOLA\\PROYECTO CONSOLA.csproj",
+        "projectPath": "C:\\PROYECTOS\\Proyecto-Jesus\\PROYECTO CONSOLA.csproj",
         "packagesPath": "C:\\Users\\Educamosclm\\.nuget\\packages\\",
-        "outputPath": "C:\\PROYECTOS\\PROYECTO CONSOLA\\obj\\",
+        "outputPath": "C:\\PROYECTOS\\Proyecto-Jesus\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -12,3 +12,17 @@ C:\PROYECTOS\PROYECTO CONSOLA\obj\Debug\netcoreapp3.1\PROYECTO CONSOLA.pdb
 C:\PROYECTOS\PROYECTO CONSOLA\obj\Debug\netcoreapp3.1\PROYECTO CONSOLA.genruntimeconfig.cache
 C:\PROYECTOS\PROYECTO CONSOLA\obj\Debug\netcoreapp3.1\PROYECTO CONSOLA.csproj.AssemblyReference.cache
 C:\PROYECTOS\PROYECTO CONSOLA\obj\Debug\netcoreapp3.1\PROYECTO CONSOLA.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROYECTOS\Proyecto-Jesus\bin\Debug\netcoreapp3.1\PROYECTO CONSOLA.exe
+C:\PROYECTOS\Proyecto-Jesus\bin\Debug\netcoreapp3.1\PROYECTO CONSOLA.deps.json
+C:\PROYECTOS\Proyecto-Jesus\bin\Debug\netcoreapp3.1\PROYECTO CONSOLA.runtimeconfig.json
+C:\PROYECTOS\Proyecto-Jesus\bin\Debug\netcoreapp3.1\PROYECTO CONSOLA.runtimeconfig.dev.json
+C:\PROYECTOS\Proyecto-Jesus\bin\Debug\netcoreapp3.1\PROYECTO CONSOLA.dll
+C:\PROYECTOS\Proyecto-Jesus\bin\Debug\netcoreapp3.1\PROYECTO CONSOLA.pdb
+C:\PROYECTOS\Proyecto-Jesus\obj\Debug\netcoreapp3.1\PROYECTO CONSOLA.csproj.AssemblyReference.cache
+C:\PROYECTOS\Proyecto-Jesus\obj\Debug\netcoreapp3.1\PROYECTO CONSOLA.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROYECTOS\Proyecto-Jesus\obj\Debug\netcoreapp3.1\PROYECTO CONSOLA.AssemblyInfoInputs.cache
+C:\PROYECTOS\Proyecto-Jesus\obj\Debug\netcoreapp3.1\PROYECTO CONSOLA.AssemblyInfo.cs
+C:\PROYECTOS\Proyecto-Jesus\obj\Debug\netcoreapp3.1\PROYECTO CONSOLA.csproj.CoreCompileInputs.cache
+C:\PROYECTOS\Proyecto-Jesus\obj\Debug\netcoreapp3.1\PROYECTO CONSOLA.dll
+C:\PROYECTOS\Proyecto-Jesus\obj\Debug\netcoreapp3.1\PROYECTO CONSOLA.pdb
+C:\PROYECTOS\Proyecto-Jesus\obj\Debug\netcoreapp3.1\PROYECTO CONSOLA.genruntimeconfig.cache
